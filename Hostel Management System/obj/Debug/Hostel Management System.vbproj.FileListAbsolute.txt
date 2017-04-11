@@ -1,0 +1,48 @@
+D:\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe
+D:\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.pdb
+D:\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.xml
+D:\Hostel Management System\Hostel Management System\obj\Debug\ResolveAssemblyReference.cache
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.frmlogin.resources
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Resources.resources
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.vbproj.GenerateResource.Cache
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.exe
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.xml
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.pdb
+D:\Hostel Management System\Hostel Management System\bin\Debug\Interop.ADODB.dll
+D:\Hostel Management System\Hostel Management System\obj\Debug\Interop.ADODB.dll
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.vbproj.ResolveComReference.cache
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Frmmaster.resources
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.frmadmission.resources
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.frmyear.resources
+H:\Hostel Management System\Hostel Management System\obj\Debug\Interop.ADODB.dll
+H:\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.vbproj.ResolveComReference.cache
+H:\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.exe
+H:\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.xml
+H:\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.pdb
+H:\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe
+H:\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.pdb
+H:\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.xml
+H:\Hostel Management System\Hostel Management System\bin\Debug\Interop.ADODB.dll
+H:\Hostel Management System\Hostel Management System\obj\Debug\ResolveAssemblyReference.cache
+H:\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.frmadmission.resources
+H:\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.frmlogin.resources
+H:\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Frmmaster.resources
+H:\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.frmyear.resources
+H:\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Resources.resources
+H:\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.vbproj.GenerateResource.Cache
+D:\hostel new\Hostel Management System\Hostel Management System\obj\Debug\Interop.ADODB.dll
+D:\hostel new\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.vbproj.ResolveComReference.cache
+D:\hostel new\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.exe
+D:\hostel new\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.xml
+D:\hostel new\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.pdb
+D:\hostel new\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe
+D:\hostel new\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.pdb
+D:\hostel new\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.xml
+D:\hostel new\Hostel Management System\Hostel Management System\bin\Debug\Interop.ADODB.dll
+D:\hostel new\Hostel Management System\Hostel Management System\obj\Debug\ResolveAssemblyReference.cache
+D:\hostel new\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.frmadmission.resources
+D:\hostel new\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.frmlogin.resources
+D:\hostel new\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Frmmaster.resources
+D:\hostel new\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.frmyear.resources
+D:\hostel new\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Resources.resources
+D:\hostel new\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.vbproj.GenerateResource.Cache
